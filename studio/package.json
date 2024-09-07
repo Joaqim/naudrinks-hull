@@ -1,7 +1,7 @@
 {
   "name": "naudrinks-hull",
   "private": true,
-  "version": "1.0.6",
+  "version": "1.0.7",
   "main": "package.json",
   "contributors": ["Nick DiMatteo <hello@nickdimatteo.com>"],
   "scripts": {
@@ -22,8 +22,8 @@
     "bcp47": "^1.1.2",
     "nanoid": "^3.1.10",
     "prop-types": "^15.7.2",
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
     "react-icons": "^4.2.0",
     "sanity-plugin-dashboard-widget-document-list": "^0.0.13",
     "sanity-plugin-intl-input": "^5.2.1",
